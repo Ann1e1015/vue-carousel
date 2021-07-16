@@ -1,0 +1,12 @@
+{
+  "name": "vue-carousel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ann1e1015/vue-carousel.git",
+  "author": "annie1015 <371046515@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "koa": "^2.13.1",
+    "koa-static": "^5.0.0"
+  }
+}
